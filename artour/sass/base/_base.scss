@@ -1,0 +1,33 @@
+﻿@font-face {
+    font-family: 'yekan';
+    src: url('../fonts/Yekan.eot');
+    src: url('../fonts/Yekan.eot?#iefix') format('embedded-opentype'), url('../fonts/Yekan.woff') format('woff'), url('../fonts/Yekan.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'iranyekan';
+    src: url('../fonts/iranyekanwebregular(fanum).eot');
+    src: url('../fonts/iranyekanwebregular(fanum).eot?#iefix') format('embedded-opentype'), url('../fonts/iranyekanwebregular(fanum).woff') format('woff'), url('../fonts/Yekan.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+*,
+*::after,
+*::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+
+    box-sizing: border-box;
+
+}
